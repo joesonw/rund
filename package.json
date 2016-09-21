@@ -1,0 +1,30 @@
+{
+  "name": "rund",
+  "version": "0.0.1",
+  "description": "run nodejs file with environment variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "config-agent": "./index.js"
+  },
+  "author": "Qiaosen Huang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joesonw/rund.git"
+  },
+  "keywords": [
+    "run",
+    "environment",
+    "runner"
+  ],
+  "bugs": {
+    "url": "https://github.com/joesonw/rund/issues"
+  },
+  "homepage": "https://github.com/joesonw/rund#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
