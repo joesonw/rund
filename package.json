@@ -1,13 +1,13 @@
 {
   "name": "rund",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "run nodejs file with environment variables",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "config-agent": "./index.js"
+    "rund": "./index.js"
   },
   "author": "Qiaosen Huang",
   "license": "MIT",
